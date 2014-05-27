@@ -1,0 +1,2 @@
+surprise = oran + oran + o
+surprise = pecha + pecha + pe

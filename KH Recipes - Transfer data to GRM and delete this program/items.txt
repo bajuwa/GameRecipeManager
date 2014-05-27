@@ -1,0 +1,133 @@
+66
+null
+thunder
+thundara
+thundaga
+blizzard
+blizzara
+blizzaga
+fire
+fira
+firaga
+aero
+aerora
+aeroga
+cure
+cura
+curaga
+blitz
+time-splicer
+stopga
+aerial-slam
+stun-edge
+slot-edge
+fire-strike
+fire-surge
+binding-strike
+thunder-surge
+mine-square
+munny-magnet
+energy-magnet
+deep-freeze
+blackout
+sleep
+fire-dash
+confusion-strike
+strike-raid
+quick-blitz
+sliding-dash
+sonic-blade
+wishing-edge
+barrier-surge
+freeze-raid
+thundaga-shot
+poison-edge
+blizzard-edge
+zero-gravity
+zero-graviga
+zero-gravira
+triple-firaga
+triple-blizzaga
+payback-surge
+fission-firaga
+stop
+raging-storm
+firaga-burst
+glacier
+seeker-mine
+mine-shield
+magic-hour
+magnega-
+quit
+mini
+magnega
+bind
+ignite
+poison
+confuse
+thunder thundaga;thunder blizzard;thunder blizzara;thunder blizzaga;thunder fire;thunder fira;thunder firaga;thunder cure;thunder cura;thunder curaga;thundara thundaga;thundara blizzard;thundara blizzara;thundara blizzaga;thundara fire;thundara fira;thundara firaga;thundara cure;thundara cura;thundara curaga;thundaga blizzard;thundaga blizzara;thundaga blizzaga;thundaga fire;thundaga fira;thundaga firaga;thundaga aero;thundaga aerora;thundaga aeroga;thundaga cure;thundaga cura;thundaga curaga;blizzard blizzaga;blizzard fire;blizzard fira;blizzard firaga;blizzard cure;blizzard cura;blizzard curaga;blizzara blizzaga;blizzara fire;blizzara fira;blizzara firaga;blizzara cure;blizzara cura;blizzara curaga;blizzaga fire;blizzaga fira;blizzaga firaga;blizzaga aero;blizzaga aerora;blizzaga aeroga;blizzaga cure;blizzaga cura;blizzaga curaga;fira cure;fira cura;fira curaga;firaga aerora;firaga aeroga;firaga cure;firaga cura;firaga curaga;aero aeroga;aero curaga;aerora aeroga;aerora curaga;aeroga curaga;cure curaga;cura curaga;fire cure;fire cura;fire curaga;fira firaga;firaga aero;fire firaga;cure blitz;thunder-surge fire;thunder-surge blizzara;thunder-surge cura;thunder-surge mine-square;thunder-surge munny-magnet;thunder-surge energy-magnet;thunder-surge aerora;thunder-surge deep-freeze;thunder-surge blackout;thunder-surge sleep;fire mine-square;fire munny-magnet;fire energy-magnet;fire aerora;fire deep-freeze;fire blackout;fire sleep;blizzara mine-square;blizzara munny-magnet;blizzara energy-magnet;blizzara aerora;blizzara deep-freeze;blizzara blackout;blizzara sleep;cura mine-square;cura munny-magnet;cura energy-magnet;cura aerora;cura deep-freeze;cura blackout;cura sleep;mine-square munny-magnet;mine-square energy-magnet;mine-square aerora;mine-square deep-freeze;mine-square blackout;mine-square sleep;munny-magnet energy-magnet;munny-magnet aerora;munny-magnet deep-freeze;munny-magnet blackout;munny-magnet sleep;energy-magnet aerora;energy-magnet deep-freeze;energy-magnet blackout;energy-magnet sleep;aerora deep-freeze;aerora blackout;aerora sleep;deep-freeze blackout;deep-freeze sleep;blackout sleep;blitz blitz;blitz fire-surge;blitz aerial-slam;blitz slot-edge;blitz mine-square;blitz munny-magnet;blitz energy-magnet;blitz aerora;blitz deep-freeze;blitz blackout;blitz sleep;fire-surge fire-surge;fire-surge aerial-slam;fire-surge slot-edge;fire-surge mine-square;fire-surge munny-magnet;fire-surge energy-magnet;fire-surge aerora;fire-surge deep-freeze;fire-surge blackout;fire-surge sleep;aerial-slam slot-edge;aerial-slam mine-square;aerial-slam munny-magnet;aerial-slam energy-magnet;aerial-slam aerora;aerial-slam deep-freeze;aerial-slam blackout;aerial-slam sleep;slot-edge mine-square;slot-edge munny-magnet;slot-edge energy-magnet;slot-edge aerora;slot-edge deep-freeze;slot-edge blackout;slot-edge sleep;blitz fire-dash;blitz sonic-blade;blitz time-splicer;blitz wishing-edge;blitz confusion-strike;blitz binding-strike;blitz thundaga-shot;blitz curaga;blitz stop;fire-dash sonic-blade;fire-dash fire-surge;fire-dash aerial-slam;fire-dash time-splicer;fire-dash wishing-edge;fire-dash slot-edge;fire-dash confusion-strike;fire-dash binding-strike;fire-dash thundaga-shot;fire-dash curaga;fire-dash mine-square;fire-dash munny-magnet;fire-dash energy-magnet;fire-dash aerora;fire-dash deep-freeze;fire-dash blackout;fire-dash stop;fire-dash sleep;sonic-blade fire-surge;sonic-blade aerial-slam;sonic-blade time-splicer;sonic-blade wishing-edge;sonic-blade slot-edge;sonic-blade confusion-strike;sonic-blade binding-strike;sonic-blade thundaga-shot;sonic-blade curaga;sonic-blade mine-square;sonic-blade munny-magnet;sonic-blade energy-magnet;sonic-blade aerora;sonic-blade deep-freeze;sonic-blade blackout;sonic-blade stop;sonic-blade sleep;fire-surge time-splicer;fire-surge wishing-edge;fire-surge confusion-strike;fire-surge binding-strike;fire-surge thundaga-shot;fire-surge curaga;fire-surge stop;aerial-slam time-splicer;aerial-slam wishing-edge;aerial-slam confusion-strike;aerial-slam binding-strike;aerial-slam thundaga-shot;aerial-slam curaga;aerial-slam stop;time-splicer wishing-edge;time-splicer slot-edge;time-splicer confusion-strike;time-splicer binding-strike;time-splicer thundaga-shot;time-splicer curaga;time-splicer mine-square;time-splicer munny-magnet;time-splicer energy-magnet;time-splicer aerora;time-splicer deep-freeze;time-splicer blackout;time-splicer stop;time-splicer sleep;wishing-edge slot-edge;wishing-edge confusion-strike;wishing-edge binding-strike;wishing-edge thundaga-shot;wishing-edge curaga;wishing-edge mine-square;wishing-edge munny-magnet;wishing-edge energy-magnet;wishing-edge aerora;wishing-edge deep-freeze;wishing-edge blackout;wishing-edge stop;wishing-edge sleep;slot-edge slot-edge;slot-edge confusion-strike;slot-edge binding-strike;slot-edge thundaga-shot;slot-edge curaga;slot-edge stop;confusion-strike binding-strike;confusion-strike thundaga-shot;confusion-strike curaga;confusion-strike mine-square;confusion-strike munny-magnet;confusion-strike energy-magnet;confusion-strike aerora;confusion-strike deep-freeze;confusion-strike blackout;confusion-strike stop;confusion-strike sleep;binding-strike thundaga-shot;binding-strike curaga;binding-strike mine-square;binding-strike munny-magnet;binding-strike energy-magnet;binding-strike aerora;binding-strike deep-freeze;binding-strike blackout;binding-strike stop;binding-strike sleep;thundaga-shot curaga;thundaga-shot mine-square;thundaga-shot munny-magnet;thundaga-shot energy-magnet;thundaga-shot aerora;thundaga-shot deep-freeze;thundaga-shot blackout;thundaga-shot stop;thundaga-shot sleep;curaga mine-square;curaga munny-magnet;curaga energy-magnet;curaga deep-freeze;curaga blackout;curaga stop;curaga sleep;mine-square stop;munny-magnet stop;energy-magnet stop;aerora stop;deep-freeze stop;blackout stop;stop sleep;magnega- quit
+ 
+thunder thunder;thunder stun-edge
+thunder thundara;binding-strike thundara
+ 
+blizzard blizzard;blizzard-edge blizzard
+blizzard blizzara;blizzard-edge blizzara;blizzara blizzara
+ 
+fire fire;fire-strike fire
+fire fira
+ 
+aero aero
+aero aerora;quick-blitz aerora
+ 
+cure cure;cure aero
+cura cure
+stun-edge slot-edge;quick-blitz slot-edge
+stopga aerial-slam
+ 
+ 
+ 
+poison-edge cura;blizzard-edge cura
+ 
+fire-strike fira
+stun-edge zero-gravity
+;freeze-raid thundara;thundara stun-edge;confusion-strike thundara
+;aerora ignite
+
+
+;binding-strike blizzaga;freeze-raid blizzaga
+
+
+confusion-strike fire
+confuse strike-raid
+quick-blitz sliding-dash
+ 
+ 
+fire-dash thunder-surge
+strike-raid barrier-surge
+ 
+binding-strike blizzard-edge
+freeze-raid thundaga;thundaga strike-raid;firaga thundaga
+poison strike-raid
+ 
+ 
+thundara zero-gravira
+ 
+blitz firaga;firaga firaga
+blitz blizzaga
+sliding-dash fire-surge
+firaga aerora
+
+fission-firaga firaga-burst
+ 
+triple-blizzaga deep-freeze
+mine-square mine-shield
+ 
+zero-gravira blitz
+ 
+ 
+magnega bind
+ 
+ 
+ 
+ 
+ 

@@ -1,0 +1,7 @@
+eternal ice = dropped by squiggle tree
+gaseus grass = dropped by floating pumpkins
+herb seed = dropped by floating pumpkin
+natural heater = dropped by bomb
+toothpicks = commonly dropped by knights
+void crystal = rarely dropped by (stone) knights
+water crystal = rarely dropped by knights

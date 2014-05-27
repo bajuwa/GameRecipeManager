@@ -1,4 +1,0 @@
-chesto = 
-colorful shake = raises happiness
-pomeg = 
-red shake = raises base attack by 6
